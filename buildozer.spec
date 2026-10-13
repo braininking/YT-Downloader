@@ -1,3 +1,4 @@
+﻿[app]
 title = YT Downloader
 package.name = ytdownloader
 package.domain = br.com.ofertaradar
@@ -16,3 +17,4 @@ android.accept_sdk_license = True
 android.private_storage = True
 android.allow_backup = False
 p4a.branch = master
+
