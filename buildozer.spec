@@ -1,4 +1,4 @@
-﻿[app]
+[app]
 title = YT Downloader
 package.name = ytdownloader
 package.domain = br.com.ofertaradar
